@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="webproxy.int.westgroup.com" />
+  </component>
+</application>
+

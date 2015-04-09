@@ -1,15 +1,22 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Module 'generali-ws'" />
+    <option name="defaultScopeName" value="Module 'generali-ws'" />
+    <option name="SEARCH_SCOPE" value="Module 'generali-ws'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>js</mask>
+      <mask>*.js</mask>
+      <mask>*.css</mask>
+      <mask>*.groovy</mask>
+      <mask>*.gsp</mask>
+      <mask>*.gsp,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
