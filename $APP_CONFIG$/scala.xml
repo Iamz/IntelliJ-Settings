@@ -1,6 +1,58 @@
 <application>
+  <component name="Play2ExcludedModulesSettings">
+    <option name="INFO">
+      <map>
+        <entry key="Play2App">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.3.6.jar" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="hello-play-java">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.2.3.jar" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="play2app">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="version" value="2.3.6" />
+              <option name="sourceDir" value="$USER_HOME$/Developer/play/Play2App/conf" />
+              <option name="confDir" value="$USER_HOME$/Developer/play/Play2App/app" />
+              <option name="routesImports">
+                <list>
+                  <option value="controllers.Assets.Asset" />
+                </list>
+              </option>
+              <option name="uri" value="$USER_HOME$/Developer/play/Play2App" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="playconf">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="version" value="2.2.3" />
+              <option name="sourceDir" value="$USER_HOME$/Developer/play/playconf/conf" />
+              <option name="confDir" value="$USER_HOME$/Developer/play/playconf/app" />
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.2.3.jar" />
+              <option name="routesImports">
+                <list>
+                  <option value="play.libs.F" />
+                </list>
+              </option>
+              <option name="uri" value="$USER_HOME$/Developer/play/playconf" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="ScalaSettings">
-    <option name="COMPILE_SERVER_ID" value="225eea96-5501-43c1-9e50-68cead6129f2" />
+    <option name="COMPILE_SERVER_PORT" value="58615" />
+    <option name="COMPILE_SERVER_ID" value="3fce5af6-09c3-4006-8b55-8df2232b89be" />
     <option name="COMPILE_SERVER_SDK" value="1.7" />
   </component>
 </application>

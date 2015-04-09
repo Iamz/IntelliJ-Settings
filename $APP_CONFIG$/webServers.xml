@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="68c7ccba-6735-44cb-bb16-27a6b84e9309" name="codetism" url="http://www.codetism.com">
+        <fileTransfer host="ftp.codetism.com" port="21" username="nongteeg">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2aa4c28e-e24c-491c-9f53-41530c1fa72e" name="JWT" url="http://app.newmedia-plus.com/jwt/house">
+        <fileTransfer host="app.newmedia-plus.com" port="21" password="dfe1df9bdff3dfebdfc9dfcfdfdddfc2dfe7dfe4dfdddf89dff9dffedfe5df9ddfee" username="jwhouse">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
