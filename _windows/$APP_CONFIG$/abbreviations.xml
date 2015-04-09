@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ToggleDistractionFreeMode">
+        <abbreviation name="dist" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

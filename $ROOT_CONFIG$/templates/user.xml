@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="t6" value="&lt;div class=&quot;form-group col-md-6&quot;&gt;&#10;    &lt;label for=&quot;$fieldname$&quot; class=&quot;control-label&quot;&gt;$text$&lt;/label&gt;&#10;    &lt;input type=&quot;text&quot; name=&quot;$fieldname$&quot; id=&quot;$fieldname$&quot; class=&quot;form-control&quot; /&gt;&#10;&lt;/div&gt;" description="Text Input with 6-column width." toReformat="false" toShortenFQNames="true">
+    <variable name="fieldname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="GSP" value="true" />
+    </context>
+  </template>
+</templateSet>
