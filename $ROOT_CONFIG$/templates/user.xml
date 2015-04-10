@@ -20,4 +20,14 @@
       <option name="GSP" value="true" />
     </context>
   </template>
+  <template name="dropdown" value="&lt;div class=&quot;form-group col-md-$col$&quot;&gt;&#10;    &lt;label for=&quot;$fieldname$&quot; class=&quot;control-label&quot;&gt;$title$&lt;/label&gt;&#10;    &lt;g:select name=&quot;$fieldname$&quot; from=&quot;$source$&quot; class=&quot;form-control&quot; value=&quot;$value$&quot;/&gt;&#10;&lt;/div&gt;" description="Dropdown with 6-column width." toReformat="false" toShortenFQNames="true">
+    <variable name="col" expression="&quot;6&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="fieldname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="source" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+    </context>
+  </template>
 </templateSet>
