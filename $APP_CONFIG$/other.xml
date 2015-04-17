@@ -241,8 +241,8 @@
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
   <component name="mvcRunTargetHistory">
     <option value="#" />
-    <option value="create-filters com.codetism.generali.CommonData" />
     <option value="clean-all" />
+    <option value="create-filters com.codetism.generali.CommonData" />
     <option value="compile" />
     <option value="clean" />
     <option value="asset-clean" />
