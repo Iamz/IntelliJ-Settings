@@ -241,6 +241,7 @@
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
   <component name="mvcRunTargetHistory">
     <option value="#" />
+    <option value="create-filters com.codetism.generali.CheckAgentPermissions" />
     <option value="clean-all" />
     <option value="create-filters com.codetism.generali.CommonData" />
     <option value="compile" />
@@ -260,6 +261,5 @@
     <option value="run-app" />
     <option value="s2-quickstart com.codetism.generali User Role" />
     <option value="prod run-war" />
-    <option value="test war" />
   </component>
 </application>
