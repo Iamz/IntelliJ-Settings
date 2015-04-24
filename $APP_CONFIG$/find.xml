@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Module 'generali-ws'" />
     <option name="defaultScopeName" value="Module 'generali-ws'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'generali-ws'" />
     <recentFileMasks>
       <mask>*.properties</mask>
