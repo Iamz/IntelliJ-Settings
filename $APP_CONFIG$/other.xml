@@ -137,10 +137,6 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
-  <component name="GlobalAntConfiguration">
-    <filtersTableLayout />
-    <propertiesTableLayout />
-  </component>
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
     <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
