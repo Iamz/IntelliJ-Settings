@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Developer/blog/database/migrations/2015_02_10_094346_create_new_class.php" timestamp="1423562165327">
@@ -143,15 +143,15 @@
         <mark key="." line="80" column="0" />
         <mark key="[" line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/views/registerUser/test.gsp" timestamp="1423553845976">
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-        <mark key="[" line="10" column="23" />
-      </file>
       <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/views/registerUser/register.gsp" timestamp="1423560817217">
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
         <mark key="[" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/views/registerUser/test.gsp" timestamp="1423553845976">
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="[" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/meteor-angular/client/test.html" timestamp="1424511795798">
         <mark key="]" line="0" column="0" />
@@ -425,6 +425,9 @@
         <mark key="." line="39" column="19" />
         <mark key="[" line="41" column="39" />
       </file>
+      <file name="$USER_HOME$/Developer/laravel/tests/ExampleTest.php" timestamp="1430409278859">
+        <mark key="[" line="18" column="7" />
+      </file>
       <file name="D:/Documents/kcsr-android/build.gradle" timestamp="1417899773358">
         <mark key="]" line="7" column="52" />
         <mark key="." line="7" column="52" />
@@ -448,6 +451,13 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="[" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/laravel/app/Http/Kernel.php" timestamp="1430408725829">
+        <mark key="'" line="7" column="30" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/generali/grails-app/conf/BootStrap.groovy" timestamp="1423126662353">
         <mark key="]" line="5" column="0" />
@@ -513,8 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="56" filename="$USER_HOME$/Developer/generali/grails-app/views/travel/ctaRegister1.gsp" />
-      <jump line="286" column="92" filename="$USER_HOME$/Developer/generali/grails-app/views/travel/ctaRegister1.gsp" />
       <jump line="214" column="73" filename="$USER_HOME$/Developer/generali/grails-app/views/travel/ctaRegister1.gsp" />
       <jump line="30" column="35" filename="$USER_HOME$/Developer/generali/grails-app/views/travel/ctaRegister1.gsp" />
       <jump line="287" column="193" filename="$USER_HOME$/Developer/generali/grails-app/views/travel/ctaRegister1.gsp" />
@@ -613,10 +621,12 @@
       <jump line="114" column="63" filename="$USER_HOME$/Developer/generali/grails-app/views/adminDomesticsPlusPlan/edit.gsp" />
       <jump line="102" column="63" filename="$USER_HOME$/Developer/generali/grails-app/views/adminDomesticsPlusPlan/index.gsp" />
       <jump line="111" column="63" filename="$USER_HOME$/Developer/generali/grails-app/views/adminOverseasPlan/edit.gsp" />
+      <jump line="12" column="47" filename="$USER_HOME$/Developer/laravel/app/Http/Kernel.php" />
+      <jump line="7" column="30" filename="$USER_HOME$/Developer/laravel/app/Http/Kernel.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlIHsKICAgICAgICAgICAgZGJDcmVhdGUgPSAidXBkYXRlIgogICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06dGVzdERiO01WQ0M9VFJVRTtMT0NLX1RJTUVPVVQ9MTAwMDA7REJfQ0xPU0VfT05fRVhJVD1GQUxTRSIKICAgICAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXByb3RlY3RlZCAkbWlkZGxld2FyZSA9IFsKCQknSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXEh0dHBcTWlkZGxld2FyZVxDaGVja0Zvck1haW50ZW5hbmNlTW9kZScsCg==</text>
       </register>
       <register name="j" type="4">
         <text>jj</text>
@@ -625,52 +635,52 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>for</text>
+        <text>protect</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>//            dbCreate = &quot;create-drop&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
-//            url = &quot;jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;
-            dbCreate = &quot;update&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
-            url = &quot;jdbc:h2:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBkYkNyZWF0ZSA9ICJjcmVhdGUtZHJvcCIgLy8gb25lIG9mICdjcmVhdGUnLCAnY3JlYXRlLWRyb3AnLCAndXBkYXRlJywgJ3ZhbGlkYXRlJywgJycKLy8gICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06ZGV2RGI7TVZDQz1UUlVFO0xPQ0tfVElNRU9VVD0xMDAwMDtEQl9DTE9TRV9PTl9FWElUPUZBTFNFIgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICBkYXRhU291cmNlIHsKICAgICAgICAgICAgZGJDcmVhdGUgPSAidXBkYXRlIgogICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06dGVzdERiO01WQ0M9VFJVRTtMT0NLX1RJTUVPVVQ9MTAwMDA7REJfQ0xPU0VfT05fRVhJVD1GQUxTRSIKICAgICAgICB9</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CXByb3RlY3RlZCAkbWlkZGxld2FyZSA9IFsKCQknSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXEh0dHBcTWlkZGxld2FyZVxDaGVja0Zvck1haW50ZW5hbmNlTW9kZScsCg==</text>
       </register>
       <register name="0" type="4">
         <text>generali.paymentgateway.</text>
       </register>
       <register name="7" type="4">
-        <text>offset</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">KCkg</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>t</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>//            dbCreate = &quot;create-drop&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
+//            url = &quot;jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;
+            dbCreate = &quot;update&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
+            url = &quot;jdbc:h2:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;</text>
       </register>
       <register name=":" type="4">
         <text>s/coffee/js/</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>op</text>
       </register>
       <register name="8" type="4">
-        <text>op</text>
+        <text>offset</text>
       </register>
     </registers>
     <search>
-      <last-search>for</last-search>
+      <last-search>protect</last-search>
       <last-offset />
-      <last-pattern>for</last-pattern>
+      <last-pattern>protect</last-pattern>
       <last-replace>js</last-replace>
       <last-substitute>coffee</last-substitute>
       <last-dir>1</last-dir>
@@ -678,8 +688,6 @@
     </search>
     <history>
       <history-search>
-        <entry>term</entry>
-        <entry encoding="base64">XDxKc29uRmFjdG9yeVw+</entry>
         <entry>loadPostItem</entry>
         <entry>respon</entry>
         <entry>#home\ header</entry>
@@ -698,6 +706,8 @@
         <entry>da</entry>
         <entry>dat</entry>
         <entry>for</entry>
+        <entry>Check</entry>
+        <entry>protect</entry>
       </history-search>
       <history-cmd>
         <entry>s/โพสต์/โพส/</entry>
