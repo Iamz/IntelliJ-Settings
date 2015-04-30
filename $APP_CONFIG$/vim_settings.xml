@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Developer/generali/grails-app/views/adminApplication/index.gsp" timestamp="1424955825778">
@@ -348,6 +348,12 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/daikin/grails-app/conf/DataSource.groovy" timestamp="1430393927093">
+        <mark key="]" line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="[" line="28" column="11" />
+      </file>
       <file name="D:/Documents/kcsr-android/build.gradle" timestamp="1417899773358">
         <mark key="]" line="7" column="52" />
         <mark key="." line="7" column="52" />
@@ -607,7 +613,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlIHsKICAgICAgICAgICAgZGJDcmVhdGUgPSAidXBkYXRlIgogICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06dGVzdERiO01WQ0M9VFJVRTtMT0NLX1RJTUVPVVQ9MTAwMDA7REJfQ0xPU0VfT05fRVhJVD1GQUxTRSIKICAgICAgICB9</text>
       </register>
       <register name="j" type="4">
         <text>jj</text>
@@ -622,37 +628,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">KCkg</text>
+        <text>//            dbCreate = &quot;create-drop&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
+//            url = &quot;jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;
+            dbCreate = &quot;update&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
+            url = &quot;jdbc:h2:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;</text>
       </register>
-      <register name="2" type="4">
-        <text>t</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBkYkNyZWF0ZSA9ICJjcmVhdGUtZHJvcCIgLy8gb25lIG9mICdjcmVhdGUnLCAnY3JlYXRlLWRyb3AnLCAndXBkYXRlJywgJ3ZhbGlkYXRlJywgJycKLy8gICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06ZGV2RGI7TVZDQz1UUlVFO0xPQ0tfVElNRU9VVD0xMDAwMDtEQl9DTE9TRV9PTl9FWElUPUZBTFNFIgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlIHsKICAgICAgICAgICAgZGJDcmVhdGUgPSAidXBkYXRlIgogICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06dGVzdERiO01WQ0M9VFJVRTtMT0NLX1RJTUVPVVQ9MTAwMDA7REJfQ0xPU0VfT05fRVhJVD1GQUxTRSIKICAgICAgICB9</text>
       </register>
       <register name="0" type="4">
         <text>generali.paymentgateway.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyAndXBkYXRlZCcK</text>
+      <register name="7" type="4">
+        <text>offset</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">KCkg</text>
       </register>
       <register name="5" type="4">
-        <text>op</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>offset</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>s/coffee/js/</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIHBvc3RQcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>op</text>
       </register>
     </registers>
     <search>
