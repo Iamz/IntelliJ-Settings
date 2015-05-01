@@ -137,10 +137,6 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
-  <component name="GlobalAntConfiguration">
-    <filtersTableLayout />
-    <propertiesTableLayout />
-  </component>
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
     <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
@@ -241,8 +237,8 @@
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
   <component name="mvcRunTargetHistory">
     <option value="#" />
-    <option value="compile" />
     <option value="clean-all" />
+    <option value="compile" />
     <option value="create-filters com.codetism.generali.CheckAgentPermissions" />
     <option value="create-filters com.codetism.generali.CommonData" />
     <option value="clean" />
