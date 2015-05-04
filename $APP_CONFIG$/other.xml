@@ -235,6 +235,8 @@
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
   <component name="mvcRunTargetHistory">
     <option value="#" />
+    <option value="create-controller com.codetism.kkgen.adminUser" />
+    <option value="create-controller com.codetism.kkgen.UserController" />
     <option value="create-filters com.codetism.kkgen.CommonData" />
     <option value="clean-all" />
     <option value="compile" />
@@ -253,7 +255,5 @@
     <option value="create-job com.codetism.generali.PolicyNumberCleanup" />
     <option value="s2-quickstart --uiOnly" />
     <option value="install-joda-time-gorm-mappings" />
-    <option value="run-app" />
-    <option value="s2-quickstart com.codetism.generali User Role" />
   </component>
 </application>
