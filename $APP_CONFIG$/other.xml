@@ -147,13 +147,11 @@
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="https://codetism.myjetbrains.com/youtrack">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <customStates>
-        <entry state="IN_PROGRESS" name="In Progress" />
-        <entry state="RESOLVED" name="Fixed" />
-      </customStates>
       <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
       <password>df9adfc0dfc9df8fdfdedfdddf8edfdedfd2dff0dfcddf8cdfccdffadffbdfc9dff8df9ddfd0dfc4</password>
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
