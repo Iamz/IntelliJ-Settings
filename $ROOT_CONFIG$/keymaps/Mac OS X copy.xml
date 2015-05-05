@@ -2,6 +2,11 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta SPACE" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="EditorDuplicate" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
   </action>

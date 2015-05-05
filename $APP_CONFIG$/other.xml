@@ -147,13 +147,11 @@
   <component name="RecentTaskRepositories">
     <YouTrack shared="false" url="https://codetism.myjetbrains.com/youtrack">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <customStates>
-        <entry state="IN_PROGRESS" name="In Progress" />
-        <entry state="RESOLVED" name="Fixed" />
-      </customStates>
       <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
       <password>df9adfc0dfc9df8fdfdedfdddf8edfdedfd2dff0dfcddf8cdfccdffadffbdfc9dff8df9ddfd0dfc4</password>
       <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
@@ -237,6 +235,10 @@
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
   <component name="mvcRunTargetHistory">
     <option value="#" />
+    <option value="create-service com.codetism.kkgen.PasswordService" />
+    <option value="create-controller com.codetism.kkgen.adminUser" />
+    <option value="create-controller com.codetism.kkgen.UserController" />
+    <option value="create-filters com.codetism.kkgen.CommonData" />
     <option value="clean-all" />
     <option value="compile" />
     <option value="create-filters com.codetism.generali.CheckAgentPermissions" />
@@ -253,9 +255,5 @@
     <option value="create-controller com.acme.app.simple" />
     <option value="create-job com.codetism.generali.PolicyNumberCleanup" />
     <option value="s2-quickstart --uiOnly" />
-    <option value="install-joda-time-gorm-mappings" />
-    <option value="run-app" />
-    <option value="s2-quickstart com.codetism.generali User Role" />
-    <option value="prod run-war" />
   </component>
 </application>
