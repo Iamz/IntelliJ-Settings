@@ -1,9 +1,15 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ChangesView.Diff">
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta SPACE" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="EditorDuplicate" />
+  <action id="ShelvedChanges.Diff">
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta D" />
   </action>
