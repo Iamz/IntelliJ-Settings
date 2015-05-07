@@ -155,7 +155,7 @@
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
-      <username>Iamz</username>
+      <username>iamz</username>
     </YouTrack>
   </component>
   <component name="RefactoringSettings">
