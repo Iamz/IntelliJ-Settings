@@ -255,6 +255,11 @@
         <mark key="." line="207" column="92" />
         <mark key="[" line="207" column="92" />
       </file>
+      <file name="$USER_HOME$/Developer/corporate-website/tests/ChangePasswordTest.php" timestamp="1431105332582">
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="[" line="23" column="43" />
+      </file>
       <file name="$USER_HOME$/Sites/microscope/server/fixtures.coffee" timestamp="1424790653107">
         <mark key="]" line="54" column="11" />
         <mark key="^" line="54" column="11" />
@@ -352,7 +357,7 @@
         <mark key="." line="245" column="75" />
         <mark key="[" line="245" column="75" />
       </file>
-      <file name="/a.dummy" timestamp="1425472071955">
+      <file name="/a.dummy" timestamp="1431104853956">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/generali-ws/grails-app/conf/Config.groovy" timestamp="1424323592150">
@@ -632,7 +637,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>secret</text>
+        <text>firstOrCreate(['</text>
       </register>
       <register name="j" type="4">
         <text>jj</text>
@@ -644,43 +649,43 @@
         <text>for</text>
       </register>
       <register name="-" type="4">
-        <text>secret</text>
+        <text>firstOrCreate(['</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkYkNyZWF0ZSA9ICJjcmVhdGUtZHJvcCIgLy8gb25lIG9mICdjcmVhdGUnLCAnY3JlYXRlLWRyb3AnLCAndXBkYXRlJywgJ3ZhbGlkYXRlJywgJycKLy8gICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06ZGV2RGI7TVZDQz1UUlVFO0xPQ0tfVElNRU9VVD0xMDAwMDtEQl9DTE9TRV9PTl9FWElUPUZBTFNFIgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X3JlcXVpcmVkX2ZpZWxkcygpCiAgICB7CiAgICAgICAgCiAgICAgICAgJHRoaXMtPmNhbGwoJ1BPU1QnLCBhY3Rpb24oJ0FkbWluXFBhc3N3b3JkQ29udHJvbGxlckBwb3N0Q2hhbmdlJykpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0U2Vzc2lvbkhhc0Vycm9ycygpOwogICAgfQo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlIHsKICAgICAgICAgICAgZGJDcmVhdGUgPSAidXBkYXRlIgogICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06dGVzdERiO01WQ0M9VFJVRTtMT0NLX1RJTUVPVVQ9MTAwMDA7REJfQ0xPU0VfT05fRVhJVD1GQUxTRSIKICAgICAgICB9</text>
+        <text encoding="base64">d2hlcmVOYW1lKCdhZG1pbicpLT4=</text>
       </register>
       <register name="1" type="4">
-        <text>secret</text>
+        <text>firstOrCreate(['</text>
       </register>
       <register name="0" type="4">
         <text>generali.paymentgateway.</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KCkg</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBkYkNyZWF0ZSA9ICJjcmVhdGUtZHJvcCIgLy8gb25lIG9mICdjcmVhdGUnLCAnY3JlYXRlLWRyb3AnLCAndXBkYXRlJywgJ3ZhbGlkYXRlJywgJycKLy8gICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06ZGV2RGI7TVZDQz1UUlVFO0xPQ0tfVElNRU9VVD0xMDAwMDtEQl9DTE9TRV9PTl9FWElUPUZBTFNFIgo=</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlIHsKICAgICAgICAgICAgZGJDcmVhdGUgPSAidXBkYXRlIgogICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06dGVzdERiO01WQ0M9VFJVRTtMT0NLX1RJTUVPVVQ9MTAwMDA7REJfQ0xPU0VfT05fRVhJVD1GQUxTRSIKICAgICAgICB9</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>secret</text>
       </register>
-      <register name="4" type="4">
-        <text>//            dbCreate = &quot;create-drop&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
-//            url = &quot;jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;
-            dbCreate = &quot;update&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
-            url = &quot;jdbc:h2:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OnNldFVwKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/coffee/js/</text>
       </register>
       <register name="9" type="4">
-        <text>op</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>offset</text>
+        <text>//            dbCreate = &quot;create-drop&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
+//            url = &quot;jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;
+            dbCreate = &quot;update&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
+            url = &quot;jdbc:h2:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;</text>
       </register>
     </registers>
     <search>
