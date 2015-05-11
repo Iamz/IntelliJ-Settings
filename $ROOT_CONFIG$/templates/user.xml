@@ -30,4 +30,14 @@
       <option name="GSP" value="true" />
     </context>
   </template>
+  <template name="textl" value="&lt;div class=&quot;form-group col-md-$cols$&quot;&gt;&#10;    {!! Form::label('$fieldname$', '$text$', ['class' =&gt; 'control-label']) !!}&#10;    {!! Form::text('$fieldname$', null, ['class' =&gt; 'form-control']) !!}&#10;&lt;/div&gt;" description="Text Input with 6-column width for Laravel." toReformat="false" toShortenFQNames="true">
+    <variable name="cols" expression="&quot;6&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="fieldname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
