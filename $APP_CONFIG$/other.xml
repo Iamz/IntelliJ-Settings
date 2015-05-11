@@ -139,6 +139,7 @@
   </component>
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
   </component>
   <component name="PropertiesSeparatorManager">
     <file url="resourceBundle:file:///Users/Iamz/Developer/kcsr/app-server/grails-app/i18n/messages" separator="\u002e" />
