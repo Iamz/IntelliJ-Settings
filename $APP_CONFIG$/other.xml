@@ -234,11 +234,11 @@
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
   <component name="mvcRunTargetHistory">
     <option value="#" />
+    <option value="clean-all" />
     <option value="create-service com.codetism.kkgen.PasswordService" />
     <option value="create-controller com.codetism.kkgen.adminUser" />
     <option value="create-controller com.codetism.kkgen.UserController" />
     <option value="create-filters com.codetism.kkgen.CommonData" />
-    <option value="clean-all" />
     <option value="compile" />
     <option value="create-filters com.codetism.generali.CheckAgentPermissions" />
     <option value="create-filters com.codetism.generali.CommonData" />
