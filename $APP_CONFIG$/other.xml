@@ -234,6 +234,7 @@
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
   <component name="mvcRunTargetHistory">
     <option value="#" />
+    <option value="create-controller News" />
     <option value="test war" />
     <option value="clean-all" />
     <option value="create-service com.codetism.kkgen.PasswordService" />
@@ -253,6 +254,5 @@
     <option value="test-app" />
     <option value="open test-report" />
     <option value="create-controller com.acme.app.simple" />
-    <option value="create-job com.codetism.generali.PolicyNumberCleanup" />
   </component>
 </application>
