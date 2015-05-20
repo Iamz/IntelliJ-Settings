@@ -3,529 +3,534 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/generali/grails-app/conf/BootStrap.groovy" timestamp="1423126662353">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Developer/blog/database/migrations/2015_02_10_094346_create_new_class.php" timestamp="1423562165327">
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="[" line="32" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1425472071955">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Developer/generali/grails-app/domain/com/codetism/generali/AccidentPlan.groovy" timestamp="1421305804185">
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/assets/javascripts/cms/deferred.js" timestamp="1424957878136">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminDomesticsPlan/index.gsp" timestamp="1424955988263">
+        <mark key="]" line="102" column="57" />
+        <mark key="." line="102" column="57" />
+        <mark key="[" line="102" column="57" />
       </file>
-      <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/views/registerUser/register.gsp" timestamp="1423560817217">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/post_item.coffee" timestamp="1424791729010">
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/microscope/server/fixtures.coffee" timestamp="1424790653107">
-        <mark key="[" line="63" column="22" />
-        <mark key="]" line="54" column="11" />
-        <mark key="^" line="54" column="11" />
-        <mark key="." line="54" column="11" />
-      </file>
-      <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/views/registerUser/test.gsp" timestamp="1423553845976">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/services/com/codetism/generali/FileService.groovy" timestamp="1421647184427">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminDomesticsPlusPlan/index.gsp" timestamp="1424956145506">
-        <mark key="'" line="102" column="63" />
-        <mark key="[" line="102" column="85" />
-        <mark key="]" line="102" column="85" />
-        <mark key="^" line="102" column="63" />
-        <mark key="." line="102" column="85" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminAccidentIndividualPlan/index.gsp" timestamp="1424955920768">
-        <mark key="[" line="135" column="85" />
-        <mark key="]" line="135" column="89" />
-        <mark key="." line="135" column="85" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/jobs/com/codetism/generali/CheckAS400ErrorsJob.groovy" timestamp="1424338184488">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/meteor-angular/meteor-angular.html" timestamp="1424516661679">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="D:/Documents/kcsr-android/app/build.gradle" timestamp="1417899798870">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="10" column="56" />
-        <mark key="." line="10" column="56" />
-        <mark key="^" line="10" column="56" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/services/com/codetism/generali/PolicyScheduleService.groovy" timestamp="1424691148789">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="109" />
-        <mark key="." line="18" column="22" />
+      <file name="$USER_HOME$/Sites/magento/app/code/community/Magentostudy/News/controller/Adminhtml/NewsController.php" timestamp="1424104300961">
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+        <mark key="[" line="162" column="90" />
       </file>
       <file name="D:/Documents/generali/grails-app/conf/UrlMappings.groovy" timestamp="1425471947861">
         <mark key="[" line="32" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/meanjs/app/tests/user.server.model.test.js" timestamp="1424435329299">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminOverseasPlan/edit.gsp" timestamp="1424956161287">
+        <mark key="'" line="111" column="63" />
+        <mark key="]" line="111" column="86" />
+        <mark key="^" line="111" column="63" />
+        <mark key="." line="111" column="86" />
+        <mark key="[" line="111" column="86" />
       </file>
-      <file name="$USER_HOME$/Developer/generali-ws/grails-app/conf/Config.groovy" timestamp="1424323592150">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/travel/ctaRegister4.gsp" timestamp="1424425650282">
+        <mark key="]" line="20" column="109" />
+        <mark key="." line="20" column="109" />
+        <mark key="[" line="20" column="109" />
       </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/controllers/com/codetism/generali/TestFileUpdateController.groovy" timestamp="1424939915778">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="63" />
-        <mark key="^" line="5" column="63" />
-        <mark key="." line="5" column="63" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminApplication/index.gsp" timestamp="1424955825778">
-        <mark key="[" line="207" column="92" />
-        <mark key="]" line="207" column="96" />
-        <mark key="." line="207" column="92" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/travel/taRegister1.gsp" timestamp="1424935557260">
-        <mark key="[" line="120" column="48" />
-        <mark key="]" line="234" column="55" />
-        <mark key="^" line="234" column="55" />
-        <mark key="." line="234" column="55" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/lib/router.coffee" timestamp="1424840595919">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/blog/app/Http/routes.php" timestamp="1423626874373">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminApplication/taView.gsp" timestamp="1424431569180">
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali-ws/grails-app/services/com/codetism/generali/ws/TokenService.groovy" timestamp="1422083328602">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/post_edit.coffee" timestamp="1425010764137">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="76" />
-        <mark key="^" line="20" column="76" />
-        <mark key="." line="20" column="76" />
-      </file>
-      <file name="D:/Documents/kcsr-android/build.gradle" timestamp="1417899773358">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminAccidentFamilyPlan/index.gsp" timestamp="1424956094829">
-        <mark key="'" line="139" column="61" />
-        <mark key="[" line="139" column="85" />
-        <mark key="]" line="139" column="85" />
-        <mark key="^" line="139" column="61" />
-        <mark key="." line="139" column="85" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/client/templates/comments/comment_submit.html" timestamp="1424715998290">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/i18n/messages_th.properties" timestamp="1424934894987">
-        <mark key="[" line="70" column="15" />
-        <mark key="]" line="70" column="15" />
-        <mark key="." line="70" column="15" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/services/com/codetism/generali/GtProxyService.groovy" timestamp="1424946460317">
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="32" column="32" />
-        <mark key="^" line="162" column="48" />
-        <mark key="." line="32" column="32" />
-      </file>
-      <file name="$USER_HOME$/Developer/OpenCVTest/src/com/example/OpenCVTest/MyActivity.java" timestamp="1423469127778">
-        <mark key="[" line="31" column="78" />
-        <mark key="]" line="31" column="78" />
-        <mark key="." line="31" column="78" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali-ws/grails-app/conf/BootStrap.groovy" timestamp="1424321392161">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="13" column="53" />
-        <mark key="." line="13" column="53" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali-ws/grails-app/domain/com/codetism/generali/ws/Policy.groovy" timestamp="1424334029445">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/assets/stylesheets/cms/cms_main.css" timestamp="1424957891796">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/blog/database/migrations/2015_02_10_094346_create_new_class.php" timestamp="1423562165327">
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/posts_list.html" timestamp="1425011361225">
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/microscope/lib/collections/notifications.coffee" timestamp="1424723516245">
-        <mark key="[" line="3" column="110" />
         <mark key="]" line="3" column="110" />
         <mark key="^" line="3" column="88" />
         <mark key="." line="3" column="110" />
+        <mark key="[" line="3" column="110" />
       </file>
-      <file name="$USER_HOME$/Sites/meanjs/server.js" timestamp="1424416801853">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Developer/OpenCVTest/libraries/opencv/build.gradle" timestamp="1423215614307">
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="[" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminDomesticsPlan/index.gsp" timestamp="1424955988263">
-        <mark key="[" line="102" column="57" />
-        <mark key="]" line="102" column="57" />
-        <mark key="." line="102" column="57" />
+      <file name="$USER_HOME$/Sites/meteor-angular/public/templates/test.html" timestamp="1424510628975">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Documents/generali/grails-app/services/com/codetism/generali/ApplicationService.groovy" timestamp="1424881528585">
-        <mark key="[" line="36" column="35" />
+      <file name="$USER_HOME$/Sites/magento/app/code/community/Magentostudy/News/Model/Resource/News/Collection.php" timestamp="1424148544595">
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="[" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/services/com/codetism/generali/GtProxyService.groovy" timestamp="1424946460317">
+        <mark key="]" line="32" column="32" />
+        <mark key="^" line="162" column="48" />
+        <mark key="." line="32" column="32" />
+        <mark key="[" line="32" column="32" />
+      </file>
+      <file name="D:/Documents/generali/grails-app/jobs/com/codetism/generali/CheckAS400ErrorsJob.groovy" timestamp="1424883969300">
+        <mark key="]" line="7" column="77" />
+        <mark key="." line="7" column="77" />
+        <mark key="[" line="7" column="77" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/travel/taRegister4.gsp" timestamp="1424425638551">
+        <mark key="]" line="19" column="109" />
+        <mark key="." line="19" column="109" />
+        <mark key="[" line="19" column="109" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/i18n/messages_th.properties" timestamp="1424934894987">
+        <mark key="]" line="70" column="15" />
+        <mark key="." line="70" column="15" />
+        <mark key="[" line="70" column="15" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/posts_list.coffee" timestamp="1425018318956">
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="[" line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/travel/taDetail.gsp" timestamp="1421388253263">
+        <mark key="]" line="16" column="78" />
+        <mark key="." line="16" column="78" />
+        <mark key="[" line="16" column="78" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminDomesticsPlan/edit.gsp" timestamp="1424956114687">
+        <mark key="'" line="114" column="61" />
+        <mark key="]" line="114" column="86" />
+        <mark key="^" line="114" column="61" />
+        <mark key="." line="114" column="86" />
+        <mark key="[" line="114" column="86" />
+      </file>
+      <file name="D:/Documents/kcsr-android/app/build.gradle" timestamp="1417899798870">
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+        <mark key="." line="10" column="56" />
+        <mark key="[" line="10" column="52" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/services/com/codetism/generali/PolicyScheduleService.groovy" timestamp="1424691148789">
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="109" />
+        <mark key="." line="18" column="22" />
+        <mark key="[" line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/travel/paymentGateway.gsp" timestamp="1424952912562">
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="[" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/post_item.html" timestamp="1424792168823">
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="[" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/Developer/blog/app/Picnic.php" timestamp="1423587599959">
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/assets/stylesheets/cms/cms_main.css" timestamp="1424957891796">
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="[" line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/views/registerUser/test.gsp" timestamp="1423553845976">
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="[" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/views/registerUser/register.gsp" timestamp="1423560817217">
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="[" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/meteor-angular/client/test.html" timestamp="1424511795798">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="1" column="11" />
+      </file>
+      <file name="D:/Documents/generali/grails-app/conf/BootStrap.groovy" timestamp="1425471756796">
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/services/com/codetism/generali/FileService.groovy" timestamp="1421647184427">
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="[" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/unittest/test/unit/com/acme/app/SimpleServiceSpec.groovy" timestamp="1424073588530">
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/daikin/grails-app/conf/DataSource.groovy" timestamp="1430393927093">
+        <mark key="]" line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="[" line="28" column="11" />
+      </file>
+      <file name="$USER_HOME$/Sites/todoApp/routes/index.js" timestamp="1424189918473">
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="[" line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/Sites/meteor-angular/meteor-angular.html" timestamp="1424516661679">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/Developer/better-you/tests/ExampleTest.php" timestamp="1430395413396">
         <mark key="[" line="11" column="41" />
       </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/conf/Config.groovy" timestamp="1424948271420">
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
+        <mark key="[" line="207" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/magento/app/code/community/Magentostudy/News/Model/Resource/News.php" timestamp="1424148502164">
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/lib/collections/comments.coffee" timestamp="1424723972861">
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="[" line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/conf/Config.groovy" timestamp="1423554257153">
-        <mark key="[" line="176" column="0" />
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
+        <mark key="[" line="176" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/meteor-angular/meteor-angular.js" timestamp="1424515711050">
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/client/templates/comments/comment_submit.html" timestamp="1424715998290">
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="[" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/Sites/magento/var/log/system.log" timestamp="1424151313515">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/travel/taRegister1.gsp" timestamp="1424935557260">
+        <mark key="]" line="234" column="55" />
+        <mark key="^" line="234" column="55" />
+        <mark key="." line="234" column="55" />
+        <mark key="[" line="120" column="48" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/conf/BuildConfig.groovy" timestamp="1424957481858">
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="[" line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/post_submit.coffee" timestamp="1424710564904">
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="[" line="21" column="6" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali-ws/src/groovy/com/codetism/generali/ws/CustomAuthenticationProvider.groovy" timestamp="1422072809924">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminApplication/index.gsp" timestamp="1424955825778">
+        <mark key="]" line="207" column="96" />
+        <mark key="." line="207" column="92" />
+        <mark key="[" line="207" column="92" />
+      </file>
+      <file name="$USER_HOME$/Developer/corporate-website/tests/ChangePasswordTest.php" timestamp="1431105332582">
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="[" line="23" column="43" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/server/fixtures.coffee" timestamp="1424790653107">
+        <mark key="]" line="54" column="11" />
+        <mark key="^" line="54" column="11" />
+        <mark key="." line="54" column="11" />
+        <mark key="[" line="63" column="22" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/server/publication.coffee" timestamp="1424772788431">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminAccidentIndividualPlan/index.gsp" timestamp="1424955920768">
+        <mark key="]" line="135" column="89" />
+        <mark key="." line="135" column="85" />
+        <mark key="[" line="135" column="85" />
+      </file>
+      <file name="$USER_HOME$/Developer/OpenCVTest/AndroidManifest.xml" timestamp="1423465565419">
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/meanjs/server.js" timestamp="1424416801853">
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="[" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/assets/javascripts/cms/deferred.js" timestamp="1424957878136">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/controllers/com/codetism/generali/HomeController.groovy" timestamp="1424937601423">
+        <mark key="]" line="18" column="9" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="1" />
+        <mark key="[" line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/assets/plugins/jquery-ui-datepicker/css/datepicker.css" timestamp="1424066196708">
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="[" line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminDomesticsPlusPlan/edit.gsp" timestamp="1424956129051">
+        <mark key="'" line="114" column="63" />
+        <mark key="]" line="114" column="86" />
+        <mark key="^" line="114" column="63" />
+        <mark key="." line="114" column="86" />
+        <mark key="[" line="114" column="86" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminAccidentFamilyPlan/index.gsp" timestamp="1424956094829">
+        <mark key="'" line="139" column="61" />
+        <mark key="]" line="139" column="85" />
+        <mark key="^" line="139" column="61" />
+        <mark key="." line="139" column="85" />
+        <mark key="[" line="139" column="85" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/lib/collections/posts.coffee" timestamp="1424794185097">
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="[" line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali-ws/grails-app/services/com/codetism/generali/ws/TokenService.groovy" timestamp="1422083328602">
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/daikin/src/groovy/com/codetism/daikin/Utils.groovy" timestamp="1423746344467">
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="[" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/kcsr-android/app/proguard-rules.txt" timestamp="1421937041392">
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="[" line="39" column="30" />
+      </file>
+      <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/conf/BuildConfig.groovy" timestamp="1423545784119">
+        <mark key="]" line="87" column="33" />
+        <mark key="." line="87" column="33" />
+        <mark key="[" line="87" column="33" />
+      </file>
+      <file name="$USER_HOME$/Sites/meanjs/app/models/user.server.model.js" timestamp="1424435339029">
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="[" line="144" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/jobs/com/codetism/generali/CheckAS400ErrorsJob.groovy" timestamp="1424338184488">
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/taPolicy/_policy.gsp" timestamp="1424956186393">
+        <mark key="]" line="245" column="75" />
+        <mark key="." line="245" column="75" />
+        <mark key="[" line="245" column="75" />
+      </file>
+      <file name="/a.dummy" timestamp="1431104853956">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali-ws/grails-app/conf/Config.groovy" timestamp="1424323592150">
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="[" line="135" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/OpenCVTest/src/com/example/OpenCVTest/MyActivity.java" timestamp="1423469127778">
+        <mark key="]" line="31" column="78" />
+        <mark key="." line="31" column="78" />
+        <mark key="[" line="31" column="78" />
+      </file>
+      <file name="D:/Documents/generali/grails-app/conf/Config.groovy" timestamp="1424880537055">
+        <mark key="]" line="96" column="23" />
+        <mark key="^" line="96" column="23" />
+        <mark key="." line="96" column="23" />
+        <mark key="[" line="96" column="22" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali-ws/grails-app/conf/BootStrap.groovy" timestamp="1424321392161">
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="[" line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali-ws/grails-app/domain/com/codetism/generali/ws/Policy.groovy" timestamp="1424334029445">
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/jobs/com/codetism/generali/PolicyNumberCleanupJob.groovy" timestamp="1424780740167">
+        <mark key="]" line="6" column="82" />
+        <mark key="." line="6" column="82" />
+        <mark key="[" line="6" column="82" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/client/templates/includes/errors.coffee" timestamp="1424706271102">
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="[" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/lib/router.coffee" timestamp="1424840595919">
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="[" line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminOverseasPlan/index.gsp" timestamp="1424956175647">
+        <mark key="]" line="99" column="85" />
+        <mark key="^" line="99" column="63" />
+        <mark key="." line="99" column="85" />
+        <mark key="[" line="99" column="85" />
+      </file>
+      <file name="$USER_HOME$/Sites/meanjs/app/tests/user.server.model.test.js" timestamp="1424435329299">
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="[" line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/assets/stylesheets/cms/application.css" timestamp="1424957898895">
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/generali/grails-app/i18n/messages.properties" timestamp="1424934877816">
-        <mark key="[" line="73" column="34" />
         <mark key="]" line="73" column="33" />
         <mark key="^" line="73" column="33" />
         <mark key="." line="73" column="33" />
+        <mark key="[" line="73" column="34" />
       </file>
-      <file name="D:/Documents/generali/grails-app/jobs/com/codetism/generali/CheckAS400ErrorsJob.groovy" timestamp="1424883969300">
-        <mark key="[" line="7" column="77" />
-        <mark key="]" line="7" column="77" />
-        <mark key="." line="7" column="77" />
-      </file>
-      <file name="$USER_HOME$/Sites/meanjs/app/models/user.server.model.js" timestamp="1424435339029">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/Sites/meteor-angular/client/app.js" timestamp="1424516639766">
+        <mark key="]" line="39" column="19" />
+        <mark key="^" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="[" line="41" column="39" />
       </file>
       <file name="$USER_HOME$/Developer/laravel/tests/ExampleTest.php" timestamp="1430409278859">
         <mark key="[" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Developer/generali-ws/src/groovy/com/codetism/generali/ws/CustomAuthenticationProvider.groovy" timestamp="1422072809924">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/controllers/com/codetism/generali/HomeController.groovy" timestamp="1424937601423">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="18" column="9" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="1" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/taPolicy/_policy.gsp" timestamp="1424956186393">
-        <mark key="[" line="245" column="75" />
-        <mark key="]" line="245" column="75" />
-        <mark key="." line="245" column="75" />
-      </file>
-      <file name="$USER_HOME$/Developer/OpenCVTest/libraries/opencv/build.gradle" timestamp="1423215614307">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/travel/paymentGateway.gsp" timestamp="1424952912562">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-      </file>
-      <file name="$USER_HOME$/Developer/daikin/src/groovy/com/codetism/daikin/Utils.groovy" timestamp="1423746344467">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="D:/Documents/generali/grails-app/conf/BootStrap.groovy" timestamp="1425471756796">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/meteor-angular/client/test.html" timestamp="1424511795798">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/OpenCV4Android/samples/image-manipulations/src/org/opencv/samples/imagemanipulations/ImageManipulationsActivity.java" timestamp="1423223889436">
-        <mark key="[" line="248" column="69" />
-        <mark key="]" line="249" column="0" />
-        <mark key="." line="249" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/domain/com/codetism/generali/TravelPlan.groovy" timestamp="1421306347755">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/client/templates/includes/header.html" timestamp="1424795466524">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="10" column="60" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="10" column="60" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/assets/plugins/jquery-ui-datepicker/css/datepicker.css" timestamp="1424066196708">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/kcsr-android/app/proguard-rules.txt" timestamp="1421937041392">
-        <mark key="[" line="39" column="30" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/conf/BuildConfig.groovy" timestamp="1423545784119">
-        <mark key="[" line="87" column="33" />
-        <mark key="]" line="87" column="33" />
-        <mark key="." line="87" column="33" />
-      </file>
-      <file name="$USER_HOME$/Developer/laravel/app/Http/Kernel.php" timestamp="1430408725829">
-        <mark key="'" line="7" column="30" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="D:/Documents/generali/grails-app/conf/Config.groovy" timestamp="1424880537055">
-        <mark key="[" line="96" column="22" />
-        <mark key="]" line="96" column="23" />
-        <mark key="." line="96" column="23" />
-        <mark key="^" line="96" column="23" />
-      </file>
-      <file name="$USER_HOME$/Sites/meteor-angular/public/templates/test.html" timestamp="1424510628975">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/lib/collections/comments.coffee" timestamp="1424723972861">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminDomesticsPlan/edit.gsp" timestamp="1424956114687">
-        <mark key="'" line="114" column="61" />
-        <mark key="[" line="114" column="86" />
-        <mark key="]" line="114" column="86" />
-        <mark key="^" line="114" column="61" />
-        <mark key="." line="114" column="86" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/assets/stylesheets/cms/application.css" timestamp="1424957898895">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/magento/app/code/community/Magentostudy/News/Model/Resource/News/Collection.php" timestamp="1424148544595">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/Sites/meteor-angular/client/app.js" timestamp="1424516639766">
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="39" column="19" />
-        <mark key="^" line="39" column="19" />
-        <mark key="." line="39" column="19" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/posts_list.html" timestamp="1425011361225">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/meteor-angular/meteor-angular.js" timestamp="1424515711050">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/OpenCVTest/AndroidManifest.xml" timestamp="1423465565419">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/domain/com/codetism/generali/AccidentPlan.groovy" timestamp="1421305804185">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/travel/ctaRegister4.gsp" timestamp="1424425650282">
-        <mark key="[" line="20" column="109" />
-        <mark key="]" line="20" column="109" />
-        <mark key="." line="20" column="109" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/post_item.coffee" timestamp="1424791729010">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/travel/taDetail.gsp" timestamp="1421388253263">
-        <mark key="[" line="16" column="78" />
-        <mark key="]" line="16" column="78" />
-        <mark key="." line="16" column="78" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/client/templates/includes/errors.coffee" timestamp="1424706271102">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/Sites/todoApp/routes/index.js" timestamp="1424189918473">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-      </file>
-      <file name="$USER_HOME$/Sites/magento/app/code/community/Magentostudy/News/Model/Resource/News.php" timestamp="1424148502164">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/conf/BuildConfig.groovy" timestamp="1424957481858">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/magento/var/log/system.log" timestamp="1424151313515">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/Documents/kcsr-android/build.gradle" timestamp="1417899773358">
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+        <mark key="[" line="7" column="52" />
       </file>
       <file name="D:/Documents/kcsr-android/app/src/main/AndroidManifest.xml" timestamp="1417848634053">
         <mark key="[" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminDomesticsPlusPlan/edit.gsp" timestamp="1424956129051">
-        <mark key="'" line="114" column="63" />
-        <mark key="[" line="114" column="86" />
-        <mark key="]" line="114" column="86" />
-        <mark key="^" line="114" column="63" />
-        <mark key="." line="114" column="86" />
+      <file name="$USER_HOME$/Sites/microscope/client/templates/includes/header.html" timestamp="1424795466524">
+        <mark key="]" line="10" column="60" />
+        <mark key="^" line="10" column="60" />
+        <mark key="." line="10" column="60" />
+        <mark key="[" line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/daikin/grails-app/conf/DataSource.groovy" timestamp="1430393927093">
-        <mark key="[" line="28" column="11" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="28" column="15" />
+      <file name="$USER_HOME$/Developer/generali/grails-app/services/com/codetism/generali/TaApplicationService.groovy" timestamp="1424933559583">
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="[" line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/domain/com/codetism/generali/TravelPlan.groovy" timestamp="1421306347755">
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="[" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/laravel/app/Http/Kernel.php" timestamp="1430408725829">
+        <mark key="'" line="7" column="30" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/conf/BootStrap.groovy" timestamp="1423126662353">
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/magento/app/code/community/Magentostudy/News/Block/Adminhtml/News.php" timestamp="1424152461865">
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="[" line="27" column="0" />
+      </file>
+      <file name="D:/Documents/generali/grails-app/services/com/codetism/generali/ApplicationService.groovy" timestamp="1424881528585">
+        <mark key="[" line="36" column="35" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1430488831206">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminApplication/taView.gsp" timestamp="1424431569180">
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="[" line="34" column="41" />
+      </file>
+      <file name="$USER_HOME$/Developer/Touch Simulator/src/com/codetism/Touch_Simulator/ChatHeadService.java" timestamp="1421430091768">
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="[" line="30" column="72" />
+      </file>
+      <file name="$USER_HOME$/Developer/learnpython/main.py" timestamp="1422328982345">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/controllers/com/codetism/generali/TestFileUpdateController.groovy" timestamp="1424939915778">
+        <mark key="]" line="5" column="63" />
+        <mark key="^" line="5" column="63" />
+        <mark key="." line="5" column="63" />
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/post_edit.coffee" timestamp="1425010764137">
+        <mark key="]" line="20" column="76" />
+        <mark key="^" line="20" column="76" />
+        <mark key="." line="20" column="76" />
+        <mark key="[" line="20" column="47" />
+      </file>
+      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminDomesticsPlusPlan/index.gsp" timestamp="1424956145506">
+        <mark key="'" line="102" column="63" />
+        <mark key="]" line="102" column="85" />
+        <mark key="^" line="102" column="63" />
+        <mark key="." line="102" column="85" />
+        <mark key="[" line="102" column="85" />
       </file>
       <file name="$USER_HOME$/Developer/corporate-website/.env" timestamp="1430488688825">
-        <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
+        <mark key="[" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/Developer/blog/app/Picnic.php" timestamp="1423587599959">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Developer/blog/app/Http/routes.php" timestamp="1423626874373">
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/travel/taRegister4.gsp" timestamp="1424425638551">
-        <mark key="[" line="19" column="109" />
-        <mark key="]" line="19" column="109" />
-        <mark key="." line="19" column="109" />
-      </file>
-      <file name="$USER_HOME$/Sites/magento/app/code/community/Magentostudy/News/Block/Adminhtml/News.php" timestamp="1424152461865">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/posts_list.coffee" timestamp="1425018318956">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="26" column="3" />
-        <mark key="^" line="26" column="3" />
-        <mark key="." line="26" column="3" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1430488831206">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/unittest/test/unit/com/acme/app/SimpleServiceSpec.groovy" timestamp="1424073588530">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/Touch Simulator/src/com/codetism/Touch_Simulator/ChatHeadService.java" timestamp="1421430091768">
-        <mark key="[" line="30" column="72" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/services/com/codetism/generali/TaApplicationService.groovy" timestamp="1424933559583">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/jobs/com/codetism/generali/PolicyNumberCleanupJob.groovy" timestamp="1424780740167">
-        <mark key="[" line="6" column="82" />
-        <mark key="]" line="6" column="82" />
-        <mark key="." line="6" column="82" />
-      </file>
-      <file name="$USER_HOME$/Sites/magento/app/code/community/Magentostudy/News/controller/Adminhtml/NewsController.php" timestamp="1424104300961">
-        <mark key="[" line="162" column="90" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/conf/Config.groovy" timestamp="1424948271420">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminOverseasPlan/edit.gsp" timestamp="1424956161287">
-        <mark key="'" line="111" column="63" />
-        <mark key="[" line="111" column="86" />
-        <mark key="]" line="111" column="86" />
-        <mark key="^" line="111" column="63" />
-        <mark key="." line="111" column="86" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/post_submit.coffee" timestamp="1424710564904">
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-      </file>
-      <file name="$USER_HOME$/Developer/generali/grails-app/views/adminOverseasPlan/index.gsp" timestamp="1424956175647">
-        <mark key="[" line="99" column="85" />
-        <mark key="]" line="99" column="85" />
-        <mark key="^" line="99" column="63" />
-        <mark key="." line="99" column="85" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/client/templates/posts/post_item.html" timestamp="1424792168823">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-      </file>
-      <file name="$USER_HOME$/Developer/learnpython/main.py" timestamp="1422328982345">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/server/publication.coffee" timestamp="1424772788431">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/microscope/lib/collections/posts.coffee" timestamp="1424794185097">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Developer/OpenCV4Android/samples/image-manipulations/src/org/opencv/samples/imagemanipulations/ImageManipulationsActivity.java" timestamp="1423223889436">
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
+        <mark key="[" line="248" column="69" />
       </file>
     </filemarks>
     <jumps>
@@ -632,7 +637,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>secret</text>
+        <text>firstOrCreate(['</text>
       </register>
       <register name="j" type="4">
         <text>jj</text>
@@ -640,47 +645,47 @@
       <register name="k" type="4">
         <text />
       </register>
-      <register name="-" type="4">
-        <text>secret</text>
-      </register>
       <register name="/" type="4">
         <text>for</text>
+      </register>
+      <register name="-" type="4">
+        <text>firstOrCreate(['</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X3JlcXVpcmVkX2ZpZWxkcygpCiAgICB7CiAgICAgICAgCiAgICAgICAgJHRoaXMtPmNhbGwoJ1BPU1QnLCBhY3Rpb24oJ0FkbWluXFBhc3N3b3JkQ29udHJvbGxlckBwb3N0Q2hhbmdlJykpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0U2Vzc2lvbkhhc0Vycm9ycygpOwogICAgfQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">d2hlcmVOYW1lKCdhZG1pbicpLT4=</text>
+      </register>
+      <register name="1" type="4">
+        <text>firstOrCreate(['</text>
       </register>
       <register name="0" type="4">
         <text>generali.paymentgateway.</text>
       </register>
-      <register name="1" type="4">
-        <text>secret</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlIHsKICAgICAgICAgICAgZGJDcmVhdGUgPSAidXBkYXRlIgogICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06dGVzdERiO01WQ0M9VFJVRTtMT0NLX1RJTUVPVVQ9MTAwMDA7REJfQ0xPU0VfT05fRVhJVD1GQUxTRSIKICAgICAgICB9</text>
-      </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBkYkNyZWF0ZSA9ICJjcmVhdGUtZHJvcCIgLy8gb25lIG9mICdjcmVhdGUnLCAnY3JlYXRlLWRyb3AnLCAndXBkYXRlJywgJ3ZhbGlkYXRlJywgJycKLy8gICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06ZGV2RGI7TVZDQz1UUlVFO0xPQ0tfVElNRU9VVD0xMDAwMDtEQl9DTE9TRV9PTl9FWElUPUZBTFNFIgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlIHsKICAgICAgICAgICAgZGJDcmVhdGUgPSAidXBkYXRlIgogICAgICAgICAgICB1cmwgPSAiamRiYzpoMjptZW06dGVzdERiO01WQ0M9VFJVRTtMT0NLX1RJTUVPVVQ9MTAwMDA7REJfQ0xPU0VfT05fRVhJVD1GQUxTRSIKICAgICAgICB9</text>
+      </register>
+      <register name="5" type="4">
+        <text>secret</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OnNldFVwKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>s/coffee/js/</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="4">
         <text>//            dbCreate = &quot;create-drop&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
 //            url = &quot;jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;
             dbCreate = &quot;update&quot; // one of 'create', 'create-drop', 'update', 'validate', ''
             url = &quot;jdbc:h2:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE&quot;</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>t</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">KCkg</text>
-      </register>
-      <register name="8" type="4">
-        <text>offset</text>
-      </register>
-      <register name="9" type="4">
-        <text>op</text>
-      </register>
-      <register name=":" type="4">
-        <text>s/coffee/js/</text>
       </register>
     </registers>
     <search>
@@ -694,43 +699,51 @@
     </search>
     <history>
       <history-search>
-        <entry>label</entry>
-        <entry>row_type</entry>
-        <entry>address</entry>
-        <entry>same-address</entry>
-        <entry>same-add</entry>
-        <entry>address-row</entry>
-        <entry>id</entry>
-        <entry>to</entry>
-        <entry>png</entry>
-        <entry>\/form</entry>
-        <entry>applicant-id</entry>
-        <entry>name</entry>
-        <entry>follower-count</entry>
-        <entry>follow</entry>
-        <entry>each</entry>
-        <entry>beneficiary</entry>
-        <entry>onch</entry>
-        <entry>objective-otehr</entry>
-        <entry>other</entry>
-        <entry>#to</entry>
+        <entry>loadPostItem</entry>
+        <entry>respon</entry>
+        <entry>#home\ header</entry>
+        <entry encoding="base64">I2ZhcVwg</entry>
+        <entry>#faq\ \.accord</entry>
+        <entry>#faq\ \.accordion-content\ p</entry>
+        <entry encoding="base64">XDx3aWR0aFw+</entry>
+        <entry>#product-detail\ \.accordion-header</entry>
+        <entry>#product-detail\ \.btn</entry>
+        <entry>FOOTER</entry>
+        <entry>users</entry>
+        <entry>coffee</entry>
+        <entry>transition</entry>
+        <entry>date</entry>
+        <entry>form</entry>
+        <entry>da</entry>
+        <entry>dat</entry>
+        <entry>for</entry>
+        <entry>Check</entry>
+        <entry>protect</entry>
       </history-search>
       <history-cmd>
-        <entry>963</entry>
-        <entry>182</entry>
-        <entry>1051</entry>
-        <entry>109</entry>
+        <entry>s/โพสต์/โพส/</entry>
+        <entry>s/โพสต์/โพส/g</entry>
+        <entry>s/congential/congenital/</entry>
+        <entry>961</entry>
+        <entry>s/onClose/onSelect/g</entry>
+        <entry>326</entry>
         <entry>0</entry>
+        <entry>s/coffee/js/g</entry>
+        <entry>s/coffee/js/</entry>
+        <entry>/homestead/corporate/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
@@ -758,9 +771,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

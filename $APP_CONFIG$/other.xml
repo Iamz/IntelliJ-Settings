@@ -139,7 +139,6 @@
   </component>
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
-    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
   </component>
   <component name="PropertiesSeparatorManager">
     <file url="resourceBundle:file:///Users/Iamz/Developer/kcsr/app-server/grails-app/i18n/messages" separator="\u002e" />
@@ -155,7 +154,7 @@
       <option name="shouldFormatCommitMessage" value="false" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
-      <username>Iamz</username>
+      <username>iamz</username>
     </YouTrack>
   </component>
   <component name="RefactoringSettings">
@@ -235,11 +234,13 @@
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
   <component name="mvcRunTargetHistory">
     <option value="#" />
+    <option value="create-controller News" />
+    <option value="test war" />
+    <option value="clean-all" />
     <option value="create-service com.codetism.kkgen.PasswordService" />
     <option value="create-controller com.codetism.kkgen.adminUser" />
     <option value="create-controller com.codetism.kkgen.UserController" />
     <option value="create-filters com.codetism.kkgen.CommonData" />
-    <option value="clean-all" />
     <option value="compile" />
     <option value="create-filters com.codetism.generali.CheckAgentPermissions" />
     <option value="create-filters com.codetism.generali.CommonData" />
@@ -253,7 +254,5 @@
     <option value="test-app" />
     <option value="open test-report" />
     <option value="create-controller com.acme.app.simple" />
-    <option value="create-job com.codetism.generali.PolicyNumberCleanup" />
-    <option value="s2-quickstart --uiOnly" />
   </component>
 </application>
