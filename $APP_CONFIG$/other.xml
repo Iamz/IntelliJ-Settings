@@ -234,8 +234,8 @@
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
   <component name="mvcRunTargetHistory">
     <option value="#" />
-    <option value="test war" />
     <option value="test war target/ROOT.war" />
+    <option value="test war" />
     <option value="create-controller News" />
     <option value="clean-all" />
     <option value="create-service com.codetism.kkgen.PasswordService" />
