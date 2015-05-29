@@ -143,15 +143,15 @@
         <mark key="." line="80" column="0" />
         <mark key="[" line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/views/registerUser/register.gsp" timestamp="1423560817217">
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="[" line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/views/registerUser/test.gsp" timestamp="1423553845976">
         <mark key="]" line="10" column="23" />
         <mark key="." line="10" column="23" />
         <mark key="[" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Developer/kcsr/web-server/grails-app/views/registerUser/register.gsp" timestamp="1423560817217">
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="[" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/meteor-angular/client/test.html" timestamp="1424511795798">
         <mark key="]" line="0" column="0" />
