@@ -18,6 +18,12 @@
           <profile default="true" name="Default" enabled="false">
             <processorPath useClasspath="true" />
           </profile>
+          <profile default="false" name="AndrodidAnnotations" enabled="true">
+            <outputRelativeToContentRoot value="true" />
+            <processorPath useClasspath="false">
+              <entry name="$USER_HOME$/Developer/Generali_Android/app/libs/androidannotations-3.3.1.jar" />
+            </processorPath>
+          </profile>
         </annotationProcessing>
       </component>
       <component name="MavenImportPreferences">
@@ -45,6 +51,11 @@
         <modules />
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+        <property name="last_opened_file_path" value="$USER_HOME$/Developer/Generali_Android/app/libs/androidannotations-3.3.1.jar" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
