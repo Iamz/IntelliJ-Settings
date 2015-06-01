@@ -51,4 +51,17 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SEARCH_SCOPE">
+      <SearchScope scope-name="Project Files">
+        <moduleName>generali</moduleName>
+      </SearchScope>
+    </option>
+    <option name="attributes">
+      <TextAttributes />
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes />
+    </option>
+  </component>
 </application>
