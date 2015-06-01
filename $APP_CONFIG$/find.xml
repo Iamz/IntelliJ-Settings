@@ -3,7 +3,6 @@
     <option name="customScope" value="Module 'generali-ws'" />
     <option name="defaultScopeName" value="Module 'generali-ws'" />
     <option name="SEARCH_SCOPE" value="Module 'generali-ws'" />
-    <option name="FILE_MASK" value="*.gsp, *.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
