@@ -51,4 +51,8 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="mvcRunTargetHistory">
+    <option value="#" />
+    <option value="run-war" />
+  </component>
 </application>
