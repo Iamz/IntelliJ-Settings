@@ -52,7 +52,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+        <property name="settings.editor.selected.configurable" value="android.dex.compiler" />
         <property name="last_opened_file_path" value="$USER_HOME$/Developer/Generali_Android/app/libs/androidannotations-3.3.1.jar" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
