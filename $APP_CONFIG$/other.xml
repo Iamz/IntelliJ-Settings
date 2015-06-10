@@ -64,4 +64,8 @@
       <TextAttributes />
     </option>
   </component>
+  <component name="mvcRunTargetHistory">
+    <option value="#" />
+    <option value="test run-app" />
+  </component>
 </application>
