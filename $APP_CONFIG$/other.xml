@@ -105,6 +105,7 @@
   </component>
   <component name="mvcRunTargetHistory">
     <option value="#" />
+    <option value="clean-all" />
     <option value="test war target/ROOT.war" />
     <option value="run-war" />
   </component>
