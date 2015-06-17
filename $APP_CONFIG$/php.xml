@@ -8,7 +8,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.5">
-        <phpinfo php_cli="/usr/bin/php" path_separator=":" remote_host="127.0.0.1" version="5.5.20">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" remote_host="127.0.0.1" version="5.5.20">
           <additional_php_ini />
           <configuration_file>/etc/php.ini</configuration_file>
           <configuration_options>
