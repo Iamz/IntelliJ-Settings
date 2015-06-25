@@ -35,7 +35,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="PATH_TO_PASSWORD_FILE" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -99,14 +99,21 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
-  <component name="RefactoringSettings">
-    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SEARCH_SCOPE">
+      <SearchScope scope-name="Project Files">
+        <moduleName>generali</moduleName>
+      </SearchScope>
+    </option>
+    <option name="attributes">
+      <TextAttributes />
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes />
+    </option>
   </component>
   <component name="mvcRunTargetHistory">
     <option value="#" />
-    <option value="clean-all" />
-    <option value="test war target/ROOT.war" />
-    <option value="run-war" />
+    <option value="test run-app" />
   </component>
 </application>
