@@ -114,6 +114,7 @@
   </component>
   <component name="mvcRunTargetHistory">
     <option value="#" />
+    <option value="create-controller hello" />
     <option value="test run-app" />
   </component>
 </application>
