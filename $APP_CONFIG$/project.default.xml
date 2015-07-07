@@ -29,7 +29,7 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/Developer/grails3" value="1436250074000" />
+            <entry key="$USER_HOME$/Developer/grails3" value="1436256643000" />
             <entry key="$USER_HOME$/android-sdk-macosx/samples/android-22/ui/views/FloatingActionButton/FloatingActionButtonBasic" value="4299960153000" />
           </map>
         </option>
@@ -75,10 +75,10 @@
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
-          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
@@ -158,7 +158,7 @@
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.8</last-edited>
+              <last-edited>1.7</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
