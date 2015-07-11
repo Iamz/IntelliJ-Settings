@@ -99,6 +99,20 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="https://codetism.myjetbrains.com/youtrack">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
+      <password>df9adfc0dfc9df8fdfdedfdddf8edfdedfd2dff0dfcddf8cdfccdffadffbdfc9dff8df9ddfd0dfc4</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>Iamz</username>
+    </YouTrack>
+  </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="SEARCH_SCOPE">
       <SearchScope scope-name="Project Files">
