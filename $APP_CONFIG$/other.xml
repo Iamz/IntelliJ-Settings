@@ -35,7 +35,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -99,6 +99,20 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="https://codetism.myjetbrains.com/youtrack">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
+      <password>df9adfc0dfc9df8fdfdedfdddf8edfdedfd2dff0dfcddf8cdfccdffadffbdfc9dff8df9ddfd0dfc4</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>Iamz</username>
+    </YouTrack>
+  </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="SEARCH_SCOPE">
       <SearchScope scope-name="Project Files">
@@ -114,6 +128,7 @@
   </component>
   <component name="mvcRunTargetHistory">
     <option value="#" />
+    <option value="create-controller hello" />
     <option value="test run-app" />
   </component>
 </application>
