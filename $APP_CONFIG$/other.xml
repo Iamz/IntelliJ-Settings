@@ -114,7 +114,7 @@
     </YouTrack>
   </component>
   <component name="RefactoringSettings">
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
   </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="SEARCH_SCOPE">
