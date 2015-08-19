@@ -131,6 +131,7 @@
   </component>
   <component name="mvcRunTargetHistory">
     <option value="#" />
+    <option value="create-controller Reports" />
     <option value="war" />
     <option value="clean-all" />
     <option value="generate-resources swagger.Person" />
